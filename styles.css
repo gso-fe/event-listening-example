@@ -1,0 +1,22 @@
+body{
+  background: #2a7e4dfd;
+}
+.container{
+  max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus,
+input[type=text]:placeholder{
+  color: #fff;
+  border: none;
+  background: rgba(0,0,0,0.2);
+  max-width: 400px;
+
+  outline:none;
+}
+.tasks li{
+  background: #3ba266;
+}
+.deleteTask{
+  cursor: pointer;
+}
