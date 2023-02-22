@@ -14,7 +14,7 @@ input[type=text]:placeholder{
 
   outline:none;
 }
-.tasks li{
+.task-list li{
   background: #3ba266;
 }
 .deleteTask{
